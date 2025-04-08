@@ -9,6 +9,13 @@
 👨‍💻 Flutter Developer on some Side Projects
 
 ### My tech stack
+![Senior iOS Badge](https://img.shields.io/badge/Senior-iOS-%23ee5038?style=flat&logo=swift)
+![Mid KMP Badge](https://img.shields.io/badge/Mid-KMP-%236b57ff?style=flat&logo=kotlin)
+![Static Badge](https://img.shields.io/badge/Mid-Flutter-%23197cde?style=flat&logo=flutter)
+![Static Badge](https://img.shields.io/badge/Mid-Kotlin-%238052ff?style=flat&logo=kotlin)
+![Static Badge](https://img.shields.io/badge/Senior-Swift-%23ee5038?style=flat&logo=swift)
+![Static Badge](https://img.shields.io/badge/Senior-SwiftUI-%23ee5038?style=flat&logo=swift)
+
 
 ### Do you want know more?
 
