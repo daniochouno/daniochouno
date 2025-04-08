@@ -16,6 +16,10 @@
 ![Static Badge](https://img.shields.io/badge/Senior-Swift-%23ee5038?style=flat&logo=swift)
 ![Static Badge](https://img.shields.io/badge/Senior-SwiftUI-%23ee5038?style=flat&logo=swift)
 
+### 📊 Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniochouno&hide=contribs,pr&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniochouno&layout=compact)
 
 ### Do you want know more?
 
@@ -136,3 +140,4 @@ You will receive notifications so you don't forget what you are going to wear.
   <a href="https://play.google.com/store/apps/details?id=info.danielmartinez.wardrobe" target="_blank"><img src=badges/google-play-badge.svg alt="My Wardrobe - Play Store badge" height="40px"/></a>
 </div>
 <br/>
+
