@@ -46,7 +46,6 @@ You can check out the code for my app "My Resume" on my GitHub account, where I 
   <img src=screenshots/mymoney_01.png alt="My Money - screenshot 1" width="240px"/>
   <img src=screenshots/mymoney_02.png alt="My Money - screenshot 2" width="240px"/>
   <img src=screenshots/mymoney_03.png alt="My Money - screenshot 3" width="240px"/>
-  <img src=screenshots/mymoney_04.png alt="My Money - screenshot 4" width="240px"/>
 </div>
 <br/>
 
@@ -99,7 +98,6 @@ Download it now on App Store or Google Play, and start enjoying the peace of min
   <img src=screenshots/mywardrobe_01.png alt="My Wardrobe - screenshot 1" width="240px"/>
   <img src=screenshots/mywardrobe_02.png alt="My Wardrobe - screenshot 2" width="240px"/>
   <img src=screenshots/mywardrobe_03.png alt="My Wardrobe - screenshot 3" width="240px"/>
-  <img src=screenshots/mywardrobe_04.png alt="My Wardrobe - screenshot 4" width="240px"/>
 </div>
 <br/>
 
